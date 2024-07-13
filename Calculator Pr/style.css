@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+td{
+    width: 70px;
+    height: 60px;
+}
+#t{
+    margin: 20px 0px 0 38px;
+    padding:0;
+}
+.time {
+    padding-top: 75px;
+}
+.btn{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background:rgb(46, 236, 250);
+    font-size: 30px;
+}
+#dh1 {
+    margin:10px 0 0 25px;
+    text-align: center;
+    padding-bottom: 7px;
+    font-size: 50px;
+    border: 2px solid white;
+    border-radius: 50px;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(5, 5, 5);
+    color: aliceblue;
+}
+
+.c1 {
+    border:10px solid rgb(11, 131, 242);
+    padding:10px 0 0 0 ;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    height: 360px;
+    margin: 0px 0px 0px 470px;
+    background-color: rgb(39, 33, 221);
+    color: rgb(245, 240, 240);
+    width: 450px;
+}
+
+#h {
+    background-color: antiquewhite;
+    text-align: center;
+}
